@@ -3,6 +3,7 @@ const hexInputBox = document.getElementById('hex-input');
 const rgbInputBox = document.getElementById('rgb-input');
 const hslInputBox = document.getElementById('hsl-input');
 
+// this is a comment
 
 // Add events
 document.getElementById('colorInput').addEventListener('input', pickerUpdateColor);
